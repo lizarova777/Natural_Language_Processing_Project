@@ -4,7 +4,7 @@ The use of natural language processing has exploded over the last decade. Appilc
 
 ## Project Objective:
 
-The purpose of this project is to process a set of documents, run a sentiment analysis of these documents and then generate topic models of those documents by applying Latent Dirichlet Allocation (LDA) topic modelling to a set of documents. The documents consist of student notes that the graduate-level Core Methods in Data Mining course. 
+The purpose of this project is to process a set of documents, run a sentiment analysis of these documents and then generate topic models of those documents by applying Latent Dirichlet Allocation (LDA) topic modelling to a set of documents. The documents consist of student notes from the graduate-level Core Methods in Data Mining course. 
 
 ## Datasets:
   
